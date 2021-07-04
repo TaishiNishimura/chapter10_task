@@ -82,18 +82,4 @@ footer {
   .box:last-child {
     margin: 0px auto;
   }
-
-  .image1,
-  .image2,
-  .image3 {
-    height: 250px;
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .image1,
-  .image2,
-  .image3 {
-    height: 150px;
-  }
 }
